@@ -1,0 +1,2 @@
+# Tech-Support-Fact_Skill
+This is my science fair project, an attempt to make an Alexa skill that can intuitively answer users' requests for tech advice, tech facts, and other tech support info. Please help me make it so that Alexa asks the user for questions on what type of advice they are looking for, so that it can better deliver relevant information to whatever tech queries the users is having. All help is much appreciated:)
