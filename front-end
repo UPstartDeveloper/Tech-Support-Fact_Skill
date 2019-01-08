@@ -1,0 +1,74 @@
+{
+    "interactionModel": {
+        "languageModel": {
+            "invocationName": "tech support facts",
+            "intents": [
+                {
+                    "name": "AMAZON.CancelIntent",
+                    "samples": [
+                        "stop alexa",
+                        "I'm done with this",
+                        "End skill",
+                        "Exit this skill"
+                    ]
+                },
+                {
+                    "name": "AMAZON.HelpIntent",
+                    "samples": []
+                },
+                {
+                    "name": "AMAZON.StopIntent",
+                    "samples": []
+                },
+                {
+                    "name": "AMAZON.NavigateHomeIntent",
+                    "samples": []
+                },
+                {
+                    "name": "AMAZON.FallbackIntent",
+                    "samples": []
+                },
+                {
+                    "name": "GetNewFactIntent",
+                    "slots": [],
+                    "samples": [
+                        "why can't i get this right",
+                        "can you solve my tech problem",
+                        "give me tech advice",
+                        "do you know how this is supposed to work",
+                        "why is social media so popular",
+                        "how do i create a snapchat account",
+                        "how do i use facebook",
+                        "what is twitter",
+                        "what is an email address ",
+                        "why is my printer not connecting",
+                        "how come my browser is so slow",
+                        "why is the video not working",
+                        "why can't i hear sound",
+                        "i remember when technology used to be simple",
+                        "can somebody help me",
+                        "anyone know how to fix this",
+                        "how come it looks so weird",
+                        "why does my screen say this",
+                        "why is my internet so slow",
+                        "why is my computer being so slow",
+                        "why is this taking so long",
+                        "how did this ever work",
+                        "why is this not working",
+                        "help me understand this",
+                        "I need tech help",
+                        "a fact",
+                        "tell me a fact",
+                        "give me a fact",
+                        "tell me trivia",
+                        "give me trivia",
+                        "give me some information",
+                        "tell me something",
+                        "give me something"
+                    ]
+                }
+            ],
+            "types": []
+        }
+    }
+}
